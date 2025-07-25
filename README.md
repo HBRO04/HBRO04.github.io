@@ -4,3 +4,5 @@
 - **LinkedIn Account:** www.linkedin.com/in/hein-hechter-242ab8376
 - **Github Account:** https://github.com/HBRO04?tab=repositories
 - **Email:** heinhechter7@gmail.com
+
+<img src="/HPic.jpg" style="width:100%">
